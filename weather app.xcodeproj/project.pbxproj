@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		29B716801D22B02700368ACE /* photo-1441704430085-daaa9efd7317.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 29B7167F1D22B02700368ACE /* photo-1441704430085-daaa9efd7317.jpeg */; };
 		29C5DB191D0675EC001F2CB8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C5DB181D0675EC001F2CB8 /* AppDelegate.swift */; };
 		29C5DB1B1D0675EC001F2CB8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C5DB1A1D0675EC001F2CB8 /* ViewController.swift */; };
 		29C5DB1E1D0675EC001F2CB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29C5DB1C1D0675EC001F2CB8 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		29B7167F1D22B02700368ACE /* photo-1441704430085-daaa9efd7317.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "photo-1441704430085-daaa9efd7317.jpeg"; path = "../../Anar/zweena stock photos/photo-1441704430085-daaa9efd7317.jpeg"; sourceTree = "<group>"; };
 		29C5DB151D0675EC001F2CB8 /* weather app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "weather app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		29C5DB181D0675EC001F2CB8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		29C5DB1A1D0675EC001F2CB8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,8 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				29C5DB181D0675EC001F2CB8 /* AppDelegate.swift */,
-				29C5DB1A1D0675EC001F2CB8 /* ViewController.swift */,
 				29C5DB1C1D0675EC001F2CB8 /* Main.storyboard */,
+				29B7167F1D22B02700368ACE /* photo-1441704430085-daaa9efd7317.jpeg */,
+				29C5DB1A1D0675EC001F2CB8 /* ViewController.swift */,
 				29C5DB1F1D0675EC001F2CB8 /* Assets.xcassets */,
 				29C5DB211D0675EC001F2CB8 /* LaunchScreen.storyboard */,
 				29C5DB241D0675EC001F2CB8 /* Info.plist */,
@@ -125,6 +128,7 @@
 				29C5DB231D0675EC001F2CB8 /* LaunchScreen.storyboard in Resources */,
 				29C5DB201D0675EC001F2CB8 /* Assets.xcassets in Resources */,
 				29C5DB1E1D0675EC001F2CB8 /* Main.storyboard in Resources */,
+				29B716801D22B02700368ACE /* photo-1441704430085-daaa9efd7317.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +292,7 @@
 				29C5DB291D0675EC001F2CB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
